@@ -36,7 +36,9 @@ The dataset used in this project contains information about employee demographic
   - Accuracy: ~80.95%
 - **Ensemble Model:**
   - Accuracy: ~86.05%
+
 ![Image description](./output.png)
+
 **Future Improvements**
 
 - Explore advanced feature engineering techniques.
